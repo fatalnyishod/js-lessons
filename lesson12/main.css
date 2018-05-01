@@ -1,0 +1,15 @@
+#slider {
+	width: 384px;
+	height: 128px;
+	margin: 50px auto;
+	border: 1px solid hotpink;
+	overflow: hidden;
+}
+
+#line {
+	display: flex;
+	position: relative;
+	width: 640px;
+	left: 0;
+	transition: all ease .5s;
+}
